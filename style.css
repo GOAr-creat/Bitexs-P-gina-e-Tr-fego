@@ -1,0 +1,18 @@
+body {
+            background-color: #f0f8ff;
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+        p {
+            color: #34495e;
+            font-size: 30px;
+            line-height: 1.6;
+        }
+        button{color: #11a665;
+            font-size: 30px;
+            line-height: 1.6;
+            display: flex
+            justify-content:flex;
+
+
+
